@@ -1,15 +1,26 @@
 # node-bigjs
 node-bigjs
 
-## install big.js
-### npm i big.js
+## install
 
-### ============GENERAL============
+```sh
+install big.js
+#OR
+npm i big.js
+```
 
-## $ nodejs numbers.js 
-### 254999.9999995398
+## test
 
-### ===========BIGJS=============
+```sh
+nodejs numbers.js 
+#result
+254999.9999995398
+```
 
-## $ nodejs big_decimal.js 
-### 255000.00
+## use bigjs
+
+```sh
+nodejs big_decimal.js
+#result
+255000.00
+```
