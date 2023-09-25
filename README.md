@@ -1,7 +1,7 @@
 # node-bigjs
 node-bigjs
 
-## install
+## Install
 
 ```sh
 install big.js
@@ -9,12 +9,20 @@ install big.js
 npm i big.js
 ```
 
-## test
+## Test 1 ( For missing )
 
 ```sh
 nodejs numbers.js 
 #result
 254999.9999995398
+```
+
+## Test 2 ( For missing )
+
+```js
+console.log(0.1+0.2);
+#result
+0.30000000000000004
 ```
 
 ## use bigjs
